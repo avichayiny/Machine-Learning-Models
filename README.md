@@ -5,9 +5,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-A comprehensive collection of core machine learning algorithms implemented **entirely from scratch** in Python. 
+A comprehensive collection of core machine learning algorithms implemented in Python. 
 
-Rather than relying on high-level ML libraries, this repository focuses on the raw mathematical implementation of predictive analysis, data clustering, and dimensionality reduction. This project was developed to demonstrate a deep, under-the-hood understanding of how machine learning models truly work.
+Rather than relying on high-level ML libraries, This repository focuses on the practical application of predictive analysis, data clustering, and dimensionality reduction. Using industry-standard libraries like PyTorch and scikit-learn, this project was developed to demonstrate a deep, under-the-hood understanding of how machine learning models truly work.
 
 ## 🧮 Implemented Models & Use Cases
 
@@ -30,7 +30,7 @@ Rather than relying on high-level ML libraries, this repository focuses on the r
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3
 * **Environment:** Jupyter Notebooks (for interactive data visualization and step-by-step algorithm execution)
-* **Libraries:** NumPy (for linear algebra and matrix operations), Pandas (for data manipulation), Matplotlib (for plotting and decision boundary visualization).
+* **Libraries:** PyTorch (for neural networks), scikit-learn (for machine learning algorithms), NumPy (for linear algebra), Pandas (for data manipulation), Matplotlib (for plotting).
 
 ## 🚀 How to Explore
 To view the code and the mathematical breakdown:
